@@ -1,0 +1,13 @@
+# Ignore results folder
+results/
+
+# Ignore checkpoints
+checkpoints/
+
+# Ignore data
+data/
+
+# Standard Python ignores
+__pycache__/
+*.pyc
+.env

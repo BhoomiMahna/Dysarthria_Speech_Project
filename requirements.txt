@@ -1,0 +1,14 @@
+torch
+numpy
+pandas
+matplotlib
+seaborn
+librosa
+soundfile
+tqdm
+speechbrain
+scikit-learn
+transformers
+datasets
+evaluate
+scipy
