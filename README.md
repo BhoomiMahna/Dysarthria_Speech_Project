@@ -67,11 +67,3 @@ Alternatively, you can run individual phases sequentially:
    - `python src/eval_clustering.py`
 
 ## 📊 Evaluation & Results
-All generated evaluations are saved in the `results/` directory as `300 DPI` images, formatted directly for IEEE double-column paper inclusion.
-- `results/phase6/` -> Grouped Bar Charts showing acoustic variance.
-- `results/phase7/` -> Heatmaps proving speaker characteristics and dysarthric traits are preserved without blending.
-- `results/phase8/` -> Temporal alignment proofs via overlapping waveforms and DTW pathing.
-- `results/phase9/` -> t-SNE visualizations showing identical manifold mapping between real and synthetic data.
-
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
